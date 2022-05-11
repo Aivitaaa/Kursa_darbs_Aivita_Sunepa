@@ -1,0 +1,4 @@
+22/04 - izlabot visas drukas kļūdas 
+23/04 - izveidot vizuāli pievilcīgāku struktūru (grūti orientēties tekstā)
+24/04 - problēmas ar rezultātu ievadi failā
+25/04 - spēle darbojas
