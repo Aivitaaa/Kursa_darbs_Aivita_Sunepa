@@ -8,7 +8,7 @@ import MD1_ievades_modulis as inp
 points = 0
 
 
-def saskatisana():
+def saskatīšana():
     global points
     print()
     print("Saskaitīšana ar cipariem no 1 līdz 100, ievadiet pareizo atbildi: ")
